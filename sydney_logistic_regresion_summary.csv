@@ -1,0 +1,16 @@
+          Generalized Linear Model Regression Results           
+Dep. Variable:  ,choice_TRAIN    ,  No. Observations:  ,   333  
+Model:          ,GLM             ,  Df Residuals:      ,   328  
+Model Family:   ,Binomial        ,  Df Model:          ,     4  
+Link Function:  ,logit           ,  Scale:             ,  1.0000
+Method:         ,IRLS            ,  Log-Likelihood:    , -136.32
+Date:           ,Thu, 20 Jan 2022,  Deviance:          ,  272.63
+Time:           ,17:50:19        ,  Pearson chi2:      ,  326.  
+No. Iterations: ,6               ,                     ,        
+Covariance Type:,nonrobust       ,                     ,        
+     ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
+const,   -1.4440,    0.585,   -2.468, 0.014,   -2.591,   -0.297
+x1   ,    0.0565,    0.011,    5.179, 0.000,    0.035,    0.078
+x2   ,    0.0298,    0.007,    4.283, 0.000,    0.016,    0.043
+x3   ,    0.0149,    0.009,    1.573, 0.116,   -0.004,    0.034
+x4   ,   -0.1113,    0.017,   -6.736, 0.000,   -0.144,   -0.079
