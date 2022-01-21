@@ -5,7 +5,7 @@ Model Family:   ,Binomial        ,  Df Model:          ,     4
 Link Function:  ,logit           ,  Scale:             ,  1.0000
 Method:         ,IRLS            ,  Log-Likelihood:    , -136.32
 Date:           ,Thu, 20 Jan 2022,  Deviance:          ,  272.63
-Time:           ,17:50:19        ,  Pearson chi2:      ,  326.  
+Time:           ,19:10:51        ,  Pearson chi2:      ,  326.  
 No. Iterations: ,6               ,                     ,        
 Covariance Type:,nonrobust       ,                     ,        
      ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
